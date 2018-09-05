@@ -1,0 +1,22 @@
+{
+  "name": "cjm-utility",
+  "version": "1.0.0",
+  "description": "A collection of useful utilities.",
+  "main": "lib/cjm-utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmcoming/cjm-utility.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "coming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjmcoming/cjm-utility/issues"
+  },
+  "homepage": "https://github.com/cjmcoming/cjm-utility#readme"
+}
